@@ -14,10 +14,12 @@ This Python script performs exploratory data analysis on the Titanic dataset usi
 
    ```bash
    pip install pandas matplotlib seaborn
+   ```
 
-Run the script:
+2. Run the script:
   ```bash
   python titanic_analysis.py
+```
 
 # Code Highlights
 -Loads the Titanic dataset from a CSV file.
